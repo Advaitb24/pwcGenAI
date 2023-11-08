@@ -34,7 +34,6 @@ app_header = st.container()
 file_handler = st.container()
 content_handler = st.container()
 result_handler = st.container()
-openai.api_key = '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'
 
 def extract_text_from_pdf(file):
     pdf_reader = PdfReader(file)
