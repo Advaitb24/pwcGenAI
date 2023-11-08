@@ -70,7 +70,7 @@ def sidebar():
                                   placeholder="Enter your OpenAI API key (sk-...)",
                                   type="password",
                                   help="You can get your API key from https://beta.openai.com/account/api-keys",
-                                  value=_set_config(config_file, "OPENAI_API_KEY", "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"))
+                                  value=_set_config(config_file, "OPENAI_API_KEY", ""))
 
         enable_legacy = st_toggle_switch(label="Legacy", default_value=_set_config(config_file, "LEGACY", False))
         enable_final_summary = st_toggle_switch(label="Enable Final Summary",
