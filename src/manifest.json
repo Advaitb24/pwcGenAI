@@ -1,17 +1,17 @@
 {
-  "name": "SumGPT",
+  "name": "pwcGenAI",
   "version": "1.0.8",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/sean1832/SumGPT/blob/master/LICENSE"
+    "url": "https://github.com/Advaitb24/pwcGenAI/blob/master/LICENSE"
   },
-  "author": "Zeke Zhang",
-  "homepage": "https://github.com/sean1832/SumGPT",
+  "author": "Advait Bhatt",
+  "homepage": "https://github.com/Advaitb24/pwcGenAI",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sean1832/SumGPT"
+    "url": "https://github.com/Advaitb24/pwcGenAI"
   },
   "bugs": {
-    "url": "https://github.com/sean1832/SumGPT/issues"
+    "url": "https://github.com/Advaitb24/pwcGenAI/issues"
   }
 }
