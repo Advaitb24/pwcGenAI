@@ -20,6 +20,7 @@ pypdf
 scikit-learn
 numpy
 pycryptodome
+PyPDF2
 boto3
 redis
 retry
